@@ -5,11 +5,11 @@
     "watermarkLocation": "default",
     "logo": {
       "type": "custom",
-      "image": "project://assets/Media/Images/Game/UI/Y8LogoSplash.png"
+      "image": "project://assets/Flower_Images/Splash.png"
     },
     "background": {
-      "type": "color",
-      "color": {}
+      "type": "custom",
+      "image": "project://assets/Flower_Images/Splash.png"
     }
   },
   "__version__": "1.3.9",
